@@ -1,4 +1,4 @@
 <?php
-/*Test*/
+/*Test1*/
 echo phpinfo();
 ?>
